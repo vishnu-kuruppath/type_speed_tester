@@ -1,7 +1,7 @@
 import streamlit as st
 import time
 import random
-
+# this my project
 sentences=[
     "Python is a powerful programming language.",
     "Streamlit makes web apps easy to build.",
